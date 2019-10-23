@@ -5,3 +5,6 @@ Hello_world
 
 Peter = "Hello Peter"
 Peter
+
+Ding_Lei = "DIU LEI"
+Ding_Lei
